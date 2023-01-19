@@ -1,7 +1,17 @@
 package corejava;
 
 public class FunctionOverloading {
-
+	
+	public void tDatssa(int a)
+	{
+		System.out.println(a);
+	}
+	public void gDasfata(int a)
+	{
+		System.out.println(a);
+	}
+	
+	
 	
 	public void getData(int a)
 	{
