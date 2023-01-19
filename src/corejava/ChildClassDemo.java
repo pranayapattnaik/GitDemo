@@ -17,6 +17,8 @@ public class ChildClassDemo extends ParentClassDemo{
 	public void colour()
 	{
 		System.out.println(colour);
+		System.out.println("Change by Gitstuff");
+		System.out.println("Change by Gitstuff");
 	}
 	
 	public static void main(String[] args) {

@@ -22,6 +22,8 @@ public class ArrayDemo {
 			//System.out.println(b[i]);// retrieve the values from that array
 		}
 		
+		System.out.println("Change by Gitstuff");
+		System.out.println("Change by Gitstuff");
 	}
 
 }
