@@ -17,6 +17,8 @@ public class ArrayDemo {
 		//System.out.println(b);// output - [I@76ed5528
 		for(int i=0;i<b.length;i++)
 		{
+			System.out.println("Change by GitDemo");
+			System.out.println("Change by GitDemo");
 			//System.out.println(b[i]);// retrieve the values from that array
 		}
 		
