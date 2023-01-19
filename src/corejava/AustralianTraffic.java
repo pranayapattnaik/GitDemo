@@ -6,7 +6,9 @@ public class AustralianTraffic implements CentralTraffic , ContinentalTraffic{
 	
 
 	public static void main(String[] args) {
-		
+		System.out.println("Stop on train Symbol multiple interface");
+		System.out.println("Stop on train Symbol multiple interface");
+		System.out.println("Stop on train Symbol multiple interface");
 		// object is created for AustralianTraffic class but as it is interface implementaion 
 		//we can change that to interface class
 		CentralTraffic a = new AustralianTraffic();
